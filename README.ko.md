@@ -117,6 +117,12 @@ Charming stop-motion animation montage in SpongeBob's origami pineapple house in
 
 ---
 
+## 🤝 기여 안내
+
+새로운 애니메이션 IP 템플릿 추가 및 프롬프트 개선 PR을 환영합니다!
+
+이 프로젝트가 아이와 가족에게 특별한 추억을 선물했다면, **Star ⭐️를 눌러 kaomei(烤妹儿)를 응원해주세요!**
+
 ## 📄 라이선스
 
 [MIT License](LICENSE) © 2026 [kaomei](https://github.com/kaomei)

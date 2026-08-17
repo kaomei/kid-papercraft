@@ -136,7 +136,7 @@ Charming stop-motion animation montage in SpongeBob's origami pineapple house in
 
 Pull requests, new cartoon IP templates, and prompt optimizations are welcome! Feel free to open an issue.
 
-If this project helps you create unforgettable memories for children, please **give it a Star ⭐️**!
+If this project helps you create unforgettable memories for children, please **give it a Star ⭐️ to support kaomei**!
 
 ## 📄 License
 

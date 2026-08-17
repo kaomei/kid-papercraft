@@ -142,7 +142,7 @@ Charming stop-motion animation montage in SpongeBob's origami pineapple house in
 
 欢迎提交 PR 扩充更多动画 IP 模板、优化定格动画质感提示词或分享精美的生成范例。
 
-如果这个项目为你的孩子或朋友带来了惊喜与感动，**请给项目点一个 ⭐️ Star 支持我们！**
+如果这个项目为你的孩子或朋友带来了惊喜与感动，**请给项目点一个 ⭐️ Star 支持烤妹儿！**
 
 ## 📄 开源协议
 

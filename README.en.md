@@ -14,6 +14,12 @@ A production-ready AI Skill that transforms a child's name, age, and photo into 
 ![5 Top Kids IPs](https://img.shields.io/badge/IPs-5%20Popular%20Cartoons-f59e0b?style=flat-square)
 ![MIT License](https://img.shields.io/badge/License-MIT-16a34a?style=flat-square)
 
+<br/>
+
+<img src="assets/readme/hero-cover.png" alt="Kid Papercraft Preview" width="800">
+
+<br/>
+
 Built for personalized birthday greetings, TikTok / Reels / WeChat Video channels, family celebrations, and keepsake animations.
 
 </div>
@@ -100,10 +106,12 @@ Help me create an origami birthday video for my kid!
 
 ---
 
-## 📋 Example Output
+## 📋 Example Output (SpongeBob 5th Birthday)
 
-<details>
-<summary><strong>Click to view sample output for SpongeBob (5th Birthday)</strong></summary>
+<div align="center">
+  <video src="assets/readme/spongebob-birthday-demo.mp4" controls width="100%"></video>
+  <p><em>🎬 SpongeBob Theme · 30-Second Stop-Motion Origami Birthday Video Generation Demo</em></p>
+</div>
 
 ### 🎬 Clip 1: Creative Entrance (0–10s)
 ```text
@@ -119,8 +127,6 @@ Charming stop-motion animation in a colorful origami underwater party room with 
 ```text
 Charming stop-motion animation montage in SpongeBob's origami pineapple house interior. Beautifully textured colored paper cutouts showing three quick adorable scenes: First, the cheerful origami SpongeBob cheerfully brushing teeth with a tiny origami toothbrush, with sparkles of paper glitter around the smile. Then, the cheerful origami SpongeBob yawning cutely and tucking into a cozy origami paper bed with a paper star nightlight. Finally, the cheerful origami SpongeBob happily eating from a colorful origami paper plate with tiny paper vegetables and rice. Each scene transitions with a gentle paper fold wipe. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
 ```
-
-</details>
 
 ---
 

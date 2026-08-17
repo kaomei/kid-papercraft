@@ -14,6 +14,12 @@
 ![5大童年IP](https://img.shields.io/badge/动画IP-5大热门卡通-f59e0b?style=flat-square)
 ![MIT License](https://img.shields.io/badge/License-MIT-16a34a?style=flat-square)
 
+<br/>
+
+<img src="assets/readme/hero-cover.png" alt="Kid Papercraft 5大动画IP折纸定格动画预览" width="800">
+
+<br/>
+
 适用于：**宝宝生日祝福定制、家庭聚会社交分享、小红书/抖音/视频号/TikTok 儿童短剧与祝福视频创作**。
 
 </div>
@@ -102,8 +108,10 @@ cp -R skills/kid-papercraft "${CODEX_HOME:-$HOME/.codex}/skills/kid_papercraft"
 
 ## 📋 提示词生成范例（以海绵宝宝 5 岁生日为例）
 
-<details>
-<summary><strong>点击展开查看海绵宝宝主题完整输出</strong></summary>
+<div align="center">
+  <video src="assets/readme/spongebob-birthday-demo.mp4" controls width="100%"></video>
+  <p><em>🎬 海绵宝宝主题 · 乐乐 5岁生日定格折纸动画生成样片</em></p>
+</div>
 
 ### 🎬 Clip 1: 创意出场 (0–10s)
 > **台词参考**：（海绵宝宝笑声）“哈哈哈~ 派大星你看！今天是个特别的大日子！”
@@ -125,8 +133,6 @@ Charming stop-motion animation in a colorful origami underwater party room with 
 ```text
 Charming stop-motion animation montage in SpongeBob's origami pineapple house interior. Beautifully textured colored paper cutouts showing three quick adorable scenes: First, the cheerful origami SpongeBob cheerfully brushing teeth with a tiny origami toothbrush, with sparkles of paper glitter around the smile. Then, the cheerful origami SpongeBob yawning cutely and tucking into a cozy origami paper bed with a paper star nightlight. Finally, the cheerful origami SpongeBob happily eating from a colorful origami paper plate with tiny paper vegetables and rice. Each scene transitions with a gentle paper fold wipe. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
 ```
-
-</details>
 
 ---
 

@@ -14,6 +14,12 @@ Un Skill de IA de código abierto para creadores y familias. Ingresa el nombre, 
 ![5 IPs Populares](https://img.shields.io/badge/IPs-5%20Caricaturas%20Populares-f59e0b?style=flat-square)
 ![MIT License](https://img.shields.io/badge/License-MIT-16a34a?style=flat-square)
 
+<br/>
+
+<img src="assets/readme/hero-cover.png" alt="Vista previa de Kid Papercraft" width="800">
+
+<br/>
+
 Ideal para: **Saludos de cumpleaños personalizados, celebraciones familiares, videos cortos para TikTok / Instagram Reels / YouTube Shorts**.
 
 </div>
@@ -81,6 +87,30 @@ cp -R skills/kid-papercraft "${CODEX_HOME:-$HOME/.codex}/skills/kid_papercraft"
 Invocar en la conversación:
 ```text
 ¡Ayúdame a crear un video de cumpleaños en origami para mi hijo!
+```
+
+---
+
+## 📋 Ejemplo de Salida (Bob Esponja 5to Cumpleaños)
+
+<div align="center">
+  <video src="assets/readme/spongebob-birthday-demo.mp4" controls width="100%"></video>
+  <p><em>🎬 Tema de Bob Esponja · Demostración de Video de Cumpleaños en Origami Stop-Motion de 30 Segundos</em></p>
+</div>
+
+### 🎬 Clip 1: Entrada Creativa (0–10s)
+```text
+Charming stop-motion animation of an origami ocean world. Beautifully textured colored paper cutouts of SpongeBob SquarePants and Patrick Star made of origami, popping out of a folding paper pineapple house and a paper rock, doing a silly dance and bumping into each other, laughing joyfully. Paper bubbles float up around them. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
+```
+
+### 🎬 Clip 2: Celebración de Cumpleaños (10–20s)
+```text
+Charming stop-motion animation in a colorful origami underwater party room with paper coral and seaweed decorations. Beautifully textured colored paper cutouts of origami SpongeBob SquarePants and Patrick Star wearing paper party hats and blowing paper horns standing together with a cute small origami paper child (a cheerful boy with a round face, short black hair, black-rimmed glasses, and a cozy yellow hoodie), all gathered around a large origami birthday cake with 5 paper candles glowing softly. The characters hold up a folding paper banner that reads "Happy Birthday Lele!". Paper confetti and tiny origami stars fall gently from above. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
+```
+
+### 🎬 Clip 3: Buenos Hábitos (20–30s)
+```text
+Charming stop-motion animation montage in SpongeBob's origami pineapple house interior. Beautifully textured colored paper cutouts showing three quick adorable scenes: First, the cheerful origami SpongeBob cheerfully brushing teeth with a tiny origami toothbrush, with sparkles of paper glitter around the smile. Then, the cheerful origami SpongeBob yawning cutely and tucking into a cozy origami paper bed with a paper star nightlight. Finally, the cheerful origami SpongeBob happily eating from a colorful origami paper plate with tiny paper vegetables and rice. Each scene transitions with a gentle paper fold wipe. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
 ```
 
 ---

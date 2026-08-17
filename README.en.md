@@ -109,8 +109,10 @@ Help me create an origami birthday video for my kid!
 ## 📋 Example Output (SpongeBob 5th Birthday)
 
 <div align="center">
-  <video src="assets/readme/spongebob-birthday-demo.mp4" controls width="100%"></video>
-  <p><em>🎬 SpongeBob Theme · 30-Second Stop-Motion Origami Birthday Video Generation Demo</em></p>
+  <a href="assets/readme/spongebob-birthday-demo.mp4">
+    <img src="assets/readme/spongebob-birthday-demo.gif" alt="SpongeBob Birthday Origami Stop-Motion Demo" width="750">
+  </a>
+  <p><em>🎬 SpongeBob Theme · 30-Second Stop-Motion Origami Birthday Demo (<strong>Click animated preview to open full HD video with sound</strong>)</em></p>
 </div>
 
 ### 🎬 Clip 1: Creative Entrance (0–10s)

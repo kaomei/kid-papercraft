@@ -109,8 +109,10 @@ cp -R skills/kid-papercraft "${CODEX_HOME:-$HOME/.codex}/skills/kid_papercraft"
 ## 📋 提示词生成范例（以海绵宝宝 5 岁生日为例）
 
 <div align="center">
-  <video src="assets/readme/spongebob-birthday-demo.mp4" controls width="100%"></video>
-  <p><em>🎬 海绵宝宝主题 · 乐乐 5岁生日定格折纸动画生成样片</em></p>
+  <a href="assets/readme/spongebob-birthday-demo.mp4">
+    <img src="assets/readme/spongebob-birthday-demo.gif" alt="海绵宝宝主题折纸定格动画生成效果" width="750">
+  </a>
+  <p><em>🎬 海绵宝宝主题 · 乐乐 5岁生日定格折纸动画生成样片（<strong>点击动图可直接打开带声音高清视频</strong>）</em></p>
 </div>
 
 ### 🎬 Clip 1: 创意出场 (0–10s)

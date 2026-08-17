@@ -41,7 +41,7 @@
   - **第1幕（0–10秒）ユニークな登場**：キャラクターたちが飛び出す絵本のように楽しく登場。
   - **第2幕（10–20秒）バースデーセレブレーション**：キャンドルが灯るケーキとバナーを囲み、お子さまの折り紙キャラクターと一緒に祝福。
   - **第3幕（20–30秒）心温まる生活習慣メッセージ**：歯磨き 🪥、おやすみ 😴、ご飯をもぐもぐ 🍽️ の可愛いショートアニメ。
-- 👶 **オリジナル折り紙アバター**：お子さまの特徴を反映し、Reference Image（参考画像）のアップロードにも対応。
+- 👶 **オリジナル折り纸アバター**：お子さまの特徴を反映し、Reference Image（参考画像）のアップロードにも対応。
 - 📐 **マルチアスペクト比**：`9:16`（縦型ショート動画）と `16:9`（横型テレビ・タブレット）に対応。
 - 🎙️ **キャラクター音声・字幕台本付属**：各キャラクターの個性に合わせたセリフ付き。
 
@@ -94,8 +94,10 @@ cp -R skills/kid-papercraft "${CODEX_HOME:-$HOME/.codex}/skills/kid_papercraft"
 ## 📋 プロンプト生成サンプル（スポンジ・ボブ 5歳の誕生日）
 
 <div align="center">
-  <video src="assets/readme/spongebob-birthday-demo.mp4" controls width="100%"></video>
-  <p><em>🎬 スポンジ・ボブ テーマ · 30秒折り紙コマ撮り誕生日動画デモ</em></p>
+  <a href="assets/readme/spongebob-birthday-demo.mp4">
+    <img src="assets/readme/spongebob-birthday-demo.gif" alt="スポンジ・ボブ 折り紙アニメデモ" width="750">
+  </a>
+  <p><em>🎬 スポンジ・ボブ テーマ · 30秒折り紙コマ撮り誕生日動画デモ（<strong>GIFをクリックするとフルHD音声付き動画を再生できます</strong>）</em></p>
 </div>
 
 ### 🎬 Clip 1: 登場シーン (0–10s)

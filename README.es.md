@@ -94,8 +94,10 @@ Invocar en la conversación:
 ## 📋 Ejemplo de Salida (Bob Esponja 5to Cumpleaños)
 
 <div align="center">
-  <video src="assets/readme/spongebob-birthday-demo.mp4" controls width="100%"></video>
-  <p><em>🎬 Tema de Bob Esponja · Demostración de Video de Cumpleaños en Origami Stop-Motion de 30 Segundos</em></p>
+  <a href="assets/readme/spongebob-birthday-demo.mp4">
+    <img src="assets/readme/spongebob-birthday-demo.gif" alt="Demostración de Origami Bob Esponja" width="750">
+  </a>
+  <p><em>🎬 Tema de Bob Esponja · Demostración de Video en Origami Stop-Motion de 30 Segundos（<strong>Haz clic en el GIF para abrir el video en HD con sonido</strong>）</em></p>
 </div>
 
 ### 🎬 Clip 1: Entrada Creativa (0–10s)

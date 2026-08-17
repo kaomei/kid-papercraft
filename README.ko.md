@@ -94,8 +94,10 @@ cp -R skills/kid-papercraft "${CODEX_HOME:-$HOME/.codex}/skills/kid_papercraft"
 ## 📋 프롬프트 생성 예시 (스폰지밥 5세 생일)
 
 <div align="center">
-  <video src="assets/readme/spongebob-birthday-demo.mp4" controls width="100%"></video>
-  <p><em>🎬 스폰지밥 테마 · 30초 종이접기 생일 영상 데모</em></p>
+  <a href="assets/readme/spongebob-birthday-demo.mp4">
+    <img src="assets/readme/spongebob-birthday-demo.gif" alt="스폰지밥 종이접기 애니메이션 데모" width="750">
+  </a>
+  <p><em>🎬 스폰지밥 테마 · 30초 종이접기 생일 영상 데모（<strong>GIF를 클릭하면 소리가 포함된 풀 HD 비디오가 열립니다</strong>）</em></p>
 </div>
 
 ### 🎬 Clip 1: 등장 장면 (0–10s)

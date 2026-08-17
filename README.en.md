@@ -20,6 +20,14 @@ Built for personalized birthday greetings, TikTok / Reels / WeChat Video channel
 
 ---
 
+## ⚠️ Disclaimer & IP Notice
+
+1. **Non-Affiliation**: This open-source repository (`kid-papercraft`) provides AI prompt engineering templates and workflow skills. It is **independent and not affiliated with, sponsored by, or endorsed by any animation studios or trademark owners**.
+2. **Intellectual Property Rights**: All animated characters, names, and visual likenesses (including but not limited to SpongeBob SquarePants, Peppa Pig, Ultraman, Paw Patrol, and Doraemon) are the property and trademarks of their respective copyright holders.
+3. **Permitted Use**: The prompt templates provided are intended solely for personal study, academic research, AI generative art exploration, and **non-commercial family birthday greetings**. Users are responsible for complying with applicable local copyright laws and platform terms of service.
+
+---
+
 ## ✨ Features
 
 - 🎭 **5 Iconic Cartoon Worlds**: SpongeBob, Peppa Pig, Ultraman, Paw Patrol, and Doraemon in tactile papercraft aesthetics.

@@ -20,6 +20,14 @@ Ideal para: **Saludos de cumpleaños personalizados, celebraciones familiares, v
 
 ---
 
+## ⚠️ Descargo de Responsabilidad y Derechos de PI (Disclaimer)
+
+1. **Proyecto No Oficial**: Este repositorio de código abierto (`kid-papercraft`) proporciona plantillas de ingeniería de prompts y habilidades de flujo de trabajo. **Es un proyecto independiente sin afiliación, patrocinio ni respaldo de ningún estudio de animación o titular de marca**.
+2. **Propiedad Intelectual**: Todos los personajes animados, marcas registradas y nombres (incluidos Bob Esponja, Peppa Pig, Ultraman, Paw Patrol, Doraemon, etc.) pertenecen a sus respectivos creadores y titulares de derechos de autor.
+3. **Uso Permitido**: Las plantillas se proporcionan exclusivamente para estudio personal, investigación tecnológica, exploración artística y **videos de felicitación familiar de carácter no comercial**.
+
+---
+
 ## ✨ Características Principales
 
 - 🎭 **5 Mundos Animados en Origami**: Bob Esponja, Peppa Pig, Ultraman, Paw Patrol y Doraemon con estética de papel artesanal.

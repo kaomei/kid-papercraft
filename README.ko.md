@@ -1,0 +1,82 @@
+<div align="center">
+
+[简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [**한국어**](README.ko.md) · [Español](README.es.md)
+
+# 🎂 Kid Papercraft (어린이 종이접기 스톱모션 생일 영상 생성기)
+
+### 인기 애니메이션 영웅들과 함께, 우리 아이를 위한 따뜻하고 마법 같은 30초 종이접기 스톱모션 생일 영상을 만들어보세요.
+
+크리에이터와 부모님을 위한 오픈소스 AI Skill. 아이의 이름, 나이, 사진 또는 외모 특징만 입력하면 **Gemini Omni Flash** 모델에 최적화된 3막 구성의 스톱모션 프롬프트와 캐릭터 맞춤형 보이스오버 대본을 생성합니다.
+
+![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=flat-square)
+![Gemini Omni Flash](https://img.shields.io/badge/Gemini-Omni%20Flash-6d28d9?style=flat-square)
+![영상 길이](https://img.shields.io/badge/영상%20길이-30초-0066ff?style=flat-square)
+![인기 애니메이션 IP](https://img.shields.io/badge/애니메이션%20IP-5대%20인기%20캐릭터-f59e0b?style=flat-square)
+![MIT License](https://img.shields.io/badge/License-MIT-16a34a?style=flat-square)
+
+활용 분야: **아이 생일 축하 영상, 가족 모임 공유, 릴스 / 쇼츠 / 틱톡 어린이 숏폼 콘텐츠 제작**.
+
+</div>
+
+---
+
+## ✨ 핵심 기능
+
+- 🎭 **5대 인기 애니메이션 IP 종이접기화**: 네모바지 스폰지밥, 페파피그, 울트라맨, 퍼피 구조대, 도라에몽.
+- ⏱️ **30초 황금 3막 스토리 구조 (10초 × 3개 클립)**:
+  - **1막 (0–10초) 유쾌한 등장**: 캐릭터들이 접힌 종이 속에서 재미있게 튀어나오며 시선 집중.
+  - **2막 (10–20초) 생일 축하 파티**: 촛불이 켜진 케이크와 현수막을 들고 아이의 맞춤형 종이 인형과 함께 축하.
+  - **3막 (20–30초) 따뜻한 생활습관 당부**: 양치하기 🪥, 일찍 자기 😴, 밥 잘 먹기 🍽️ 미니 애니메이션.
+- 👶 **나만의 아이 종이 인형 아바타**: 아이의 외모 묘사 적용 및 Reference Image(참고 사진) 입력 지원.
+- 📐 **화면 비율 최적화**: `9:16` (스마트폰 세로 숏폼) 및 `16:9` (TV/태블릿 가로 모드).
+- 🎙️ **캐릭터 더빙/자막 대본 제공**: 캐릭터 성격에 맞춘 대사 스크립트 포함.
+
+---
+
+## 🎬 지원하는 5대 애니메이션 IP
+
+| # | 애니메이션 IP | 대표 캐릭터 | 종이접기 배경 테마 |
+|:---:|:---|:---|:---|
+| 🧽 | **스폰지밥** | 스폰지밥 & 뚱이 | 파인애플 하우스와 종이 산호초 |
+| 🐷 | **페파피그** | 페파 & 조지 | 종이 잔디 언덕과 진흙 웅덩이 |
+| ⭐ | **울트라맨** | SD 울트라맨 & 아기 괴수 | 노을빛 미니어처 종이 도시 |
+| 🐶 | **퍼피 구조대** | 체이스 & 마샬 | 종이 구조 마을과 강아지 집 |
+| 🤖 | **도라에몽** | 도라에몽 & 진구 | 신기한 종이 비밀도구가 가득한 방 |
+
+---
+
+## 🛠️ 제작 워크플로우 (Workflow)
+
+```mermaid
+flowchart LR
+    A[1. IP 및 화면 비율 선택] --> B[2. 아이 이름/나이/사진 입력]
+    B --> C[3. Skill 3개 프롬프트 자동 생성]
+    C --> D[4. Omni Flash에서 영상 생성]
+    D --> E[5. 캡컷 등에서 편집 및 음성 추가]
+```
+
+---
+
+## 📦 설치 및 실행
+
+```bash
+git clone https://github.com/kaomei/kid-papercraft.git
+cd kid-papercraft
+
+# Antigravity / Gemini CLI
+cp -R skills/kid-papercraft ~/.gemini/config/skills/kid_papercraft
+
+# Codex CLI
+cp -R skills/kid-papercraft "${CODEX_HOME:-$HOME/.codex}/skills/kid_papercraft"
+```
+
+대화창에서 호출:
+```text
+우리 아이를 위한 종이접기 생일 축하 영상을 만들어줘!
+```
+
+---
+
+## 📄 라이선스
+
+[MIT License](LICENSE) © 2026 [kaomei](https://github.com/kaomei)

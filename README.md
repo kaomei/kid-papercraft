@@ -51,6 +51,38 @@
 
 ---
 
+## 📋 提示词生成范例（以海绵宝宝 5 岁生日为例）
+
+<div align="center">
+  <a href="assets/readme/spongebob-birthday-demo.mp4">
+    <img src="assets/readme/spongebob-birthday-demo.gif" alt="海绵宝宝主题折纸定格动画生成效果" width="750">
+  </a>
+  <p><em>🎬 海绵宝宝主题 · 乐乐 5岁生日定格折纸动画生成样片（<strong>点击动图可直接打开带声音高清视频</strong>）</em></p>
+</div>
+
+### 🎬 Clip 1: 创意出场 (0–10s)
+> **台词参考**：（海绵宝宝笑声）“哈哈哈~ 派大星你看！今天是个特别的大日子！”
+
+```text
+Charming stop-motion animation of an origami ocean world. Beautifully textured colored paper cutouts of SpongeBob SquarePants and Patrick Star made of origami, popping out of a folding paper pineapple house and a paper rock, doing a silly dance and bumping into each other, laughing joyfully. Paper bubbles float up around them. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
+```
+
+### 🎬 Clip 2: 生日祝福 (10–20s)
+> **台词参考**：“祝乐乐 5 岁生日快乐！🎉 愿你每天都像在比奇堡一样开开心心！”
+
+```text
+Charming stop-motion animation in a colorful origami underwater party room with paper coral and seaweed decorations. Beautifully textured colored paper cutouts of origami SpongeBob SquarePants and Patrick Star wearing paper party hats and blowing paper horns standing together with a cute small origami paper child (a cheerful boy with a round face, short black hair, black-rimmed glasses, and a cozy yellow hoodie), all gathered around a large origami birthday cake with 5 paper candles glowing softly. The characters hold up a folding paper banner that reads "Happy Birthday Lele!". Paper confetti and tiny origami stars fall gently from above. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
+```
+
+### 🎬 Clip 3: 暖心叮嘱 (20–30s)
+> **台词参考**：“乐乐已经是 5 岁的大孩子啦！新的一岁，要好好刷牙🪥、按时睡觉😴、还要乖乖吃饭🍽️哦！”
+
+```text
+Charming stop-motion animation montage in SpongeBob's origami pineapple house interior. Beautifully textured colored paper cutouts showing three quick adorable scenes: First, the cheerful origami SpongeBob cheerfully brushing teeth with a tiny origami toothbrush, with sparkles of paper glitter around the smile. Then, the cheerful origami SpongeBob yawning cutely and tucking into a cozy origami paper bed with a paper star nightlight. Finally, the cheerful origami SpongeBob happily eating from a colorful origami paper plate with tiny paper vegetables and rice. Each scene transitions with a gentle paper fold wipe. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
+```
+
+---
+
 ## 🛠️ 创作工作流 (Workflow)
 
 ```mermaid
@@ -94,38 +126,6 @@ cp -R skills/kid-papercraft "${CODEX_HOME:-$HOME/.codex}/skills/kid_papercraft"
 
 ```text
 帮我做一个折纸风格的生日祝福视频！
-```
-
----
-
-## 📋 提示词生成范例（以海绵宝宝 5 岁生日为例）
-
-<div align="center">
-  <a href="assets/readme/spongebob-birthday-demo.mp4">
-    <img src="assets/readme/spongebob-birthday-demo.gif" alt="海绵宝宝主题折纸定格动画生成效果" width="750">
-  </a>
-  <p><em>🎬 海绵宝宝主题 · 乐乐 5岁生日定格折纸动画生成样片（<strong>点击动图可直接打开带声音高清视频</strong>）</em></p>
-</div>
-
-### 🎬 Clip 1: 创意出场 (0–10s)
-> **台词参考**：（海绵宝宝笑声）“哈哈哈~ 派大星你看！今天是个特别的大日子！”
-
-```text
-Charming stop-motion animation of an origami ocean world. Beautifully textured colored paper cutouts of SpongeBob SquarePants and Patrick Star made of origami, popping out of a folding paper pineapple house and a paper rock, doing a silly dance and bumping into each other, laughing joyfully. Paper bubbles float up around them. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
-```
-
-### 🎬 Clip 2: 生日祝福 (10–20s)
-> **台词参考**：“祝乐乐 5 岁生日快乐！🎉 愿你每天都像在比奇堡一样开开心心！”
-
-```text
-Charming stop-motion animation in a colorful origami underwater party room with paper coral and seaweed decorations. Beautifully textured colored paper cutouts of origami SpongeBob SquarePants and Patrick Star wearing paper party hats and blowing paper horns standing together with a cute small origami paper child (a cheerful boy with a round face, short black hair, black-rimmed glasses, and a cozy yellow hoodie), all gathered around a large origami birthday cake with 5 paper candles glowing softly. The characters hold up a folding paper banner that reads "Happy Birthday Lele!". Paper confetti and tiny origami stars fall gently from above. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
-```
-
-### 🎬 Clip 3: 暖心叮嘱 (20–30s)
-> **台词参考**：“乐乐已经是 5 岁的大孩子啦！新的一岁，要好好刷牙🪥、按时睡觉😴、还要乖乖吃饭🍽️哦！”
-
-```text
-Charming stop-motion animation montage in SpongeBob's origami pineapple house interior. Beautifully textured colored paper cutouts showing three quick adorable scenes: First, the cheerful origami SpongeBob cheerfully brushing teeth with a tiny origami toothbrush, with sparkles of paper glitter around the smile. Then, the cheerful origami SpongeBob yawning cutely and tucking into a cozy origami paper bed with a paper star nightlight. Finally, the cheerful origami SpongeBob happily eating from a colorful origami paper plate with tiny paper vegetables and rice. Each scene transitions with a gentle paper fold wipe. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
 ```
 
 ---

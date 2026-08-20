@@ -26,14 +26,6 @@
 
 ---
 
-## ⚠️ 免責事項および著作権に関するお知らせ (Disclaimer)
-
-1. **非公式プロジェクト**：本プロジェクト（`kid-papercraft`）はオープンソースのプロンプト設計ツールであり、**記載されているアニメ制作会社、版権元、公式ブランドとは一切の提携・後援関係はありません**。
-2. **知的財産権の帰属**：言及されているすべてのキャラクター（スポンジ・ボブ、ペッパピッグ、ウルトラマン、パウ・パトロール、ドラえもん等）の商標および著作権は、それぞれの権利所有者に帰属します。
-3. **利用範囲**：生成されたプロンプトは個人の学習、研究、AI生成アートの探求、および**非営利目的の家庭内バースデー動画作成**にのみご利用ください。商用利用に伴う責任は利用者が負うものとします。
-
----
-
 ## ✨ 主な特徴
 
 - 🎭 **5大人気アニメの世界観を折り紙化**：スポンジ・ボブ、ペッパピッグ、ウルトラマン、パウ・パトロール、ドラえもんの手作りペーパークラフト質感。
@@ -114,6 +106,14 @@ Charming stop-motion animation in a colorful origami underwater party room with 
 ```text
 Charming stop-motion animation montage in SpongeBob's origami pineapple house interior. Beautifully textured colored paper cutouts showing three quick adorable scenes: First, the cheerful origami SpongeBob cheerfully brushing teeth with a tiny origami toothbrush, with sparkles of paper glitter around the smile. Then, the cheerful origami SpongeBob yawning cutely and tucking into a cozy origami paper bed with a paper star nightlight. Finally, the cheerful origami SpongeBob happily eating from a colorful origami paper plate with tiny paper vegetables and rice. Each scene transitions with a gentle paper fold wipe. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
 ```
+
+---
+
+## ⚠️ 免責事項および著作権に関するお知らせ (Disclaimer)
+
+1. **非公式プロジェクト**：本プロジェクト（`kid-papercraft`）はオープンソースのプロンプト設計ツールであり、**記載されているアニメ制作会社、版権元、公式ブランドとは一切の提携・後援関係はありません**。
+2. **知的財産権の帰属**：言及されているすべてのキャラクター（スポンジ・ボブ、ペッパピッグ、ウルトラマン、パウ・パトロール、ドラえもん等）の商標および著作権は、それぞれの権利所有者に帰属します。
+3. **利用範囲**：生成されたプロンプトは個人の学習、研究、AI生成アートの探求、および**非営利目的の家庭内バースデー動画作成**にのみご利用ください。商用利用に伴う責任は利用者が負うものとします。
 
 ---
 

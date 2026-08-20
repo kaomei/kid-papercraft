@@ -26,14 +26,6 @@ Built for personalized birthday greetings, TikTok / Reels / WeChat Video channel
 
 ---
 
-## ⚠️ Disclaimer & IP Notice
-
-1. **Non-Affiliation**: This open-source repository (`kid-papercraft`) provides AI prompt engineering templates and workflow skills. It is **independent and not affiliated with, sponsored by, or endorsed by any animation studios or trademark owners**.
-2. **Intellectual Property Rights**: All animated characters, names, and visual likenesses (including but not limited to SpongeBob SquarePants, Peppa Pig, Ultraman, Paw Patrol, and Doraemon) are the property and trademarks of their respective copyright holders.
-3. **Permitted Use**: The prompt templates provided are intended solely for personal study, academic research, AI generative art exploration, and **non-commercial family birthday greetings**. Users are responsible for complying with applicable local copyright laws and platform terms of service.
-
----
-
 ## ✨ Features
 
 - 🎭 **5 Iconic Cartoon Worlds**: SpongeBob, Peppa Pig, Ultraman, Paw Patrol, and Doraemon in tactile papercraft aesthetics.
@@ -59,27 +51,27 @@ Built for personalized birthday greetings, TikTok / Reels / WeChat Video channel
 
 ---
 
-## 🛠️ How It Works (Workflow)
+## 🛠️ Workflow
 
 ```mermaid
 flowchart LR
-    A[1. Pick IP & Ratio] --> B[2. Input Child Info & Photo]
-    B --> C[3. Skill Generates 3-Clip Prompts]
-    C --> D[4. Generate in Omni Flash]
-    D --> E[5. Stitch & Add VO in Video Editor]
+    A[1. Choose IP & Aspect Ratio] --> B[2. Input Child's Name/Age/Photo]
+    B --> C[3. Skill Generates 3-Act Prompts]
+    C --> D[4. Paste into Omni Flash]
+    D --> E[5. Edit, Add VO & Export]
 ```
 
-1. **Invoke Skill**: Choose aspect ratio (`9:16` or `16:9`) and your child's favorite cartoon IP.
-2. **Personalize**: Enter child's name, age, and appearance (or prepare their photo as reference).
-3. **Get Prompts**: Receive 3 self-contained, highly engineered prompts + tailored voiceover dialogue.
-4. **Generate**: Paste each prompt into **Gemini Omni Flash** video model.
-5. **Assemble**: Stitch the three 10-second clips, add cheerful music and the included voice lines.
+1. **Activate Skill**: Pick aspect ratio (`9:16` or `16:9`) and choose an animation IP.
+2. **Personalize**: Enter child's name, age, physical traits (or upload a portrait photo).
+3. **Get Prompts**: Skill generates 3 locked Omni Flash prompts with character voiceover lines.
+4. **Generate Video**: Paste prompts into **Gemini Omni Flash** to generate three 10s clips.
+5. **Assemble**: Import to CapCut/Premiere, sequence into a 30s film, add VO and sound effects.
 
 ---
 
-## 📦 Installation
+## 📦 Installation & Setup
 
-### In Codex / Antigravity / Gemini CLI:
+### For Antigravity / Gemini CLI / Codex:
 
 Clone this repository:
 
@@ -88,31 +80,31 @@ git clone https://github.com/kaomei/kid-papercraft.git
 cd kid-papercraft
 ```
 
-Copy the skill to your custom skills directory:
+Copy the skill to your skills directory:
 
 ```bash
-# For Antigravity / Gemini CLI
+# Antigravity / Gemini CLI
 cp -R skills/kid-papercraft ~/.gemini/config/skills/kid_papercraft
 
-# For Codex CLI
+# Codex CLI
 cp -R skills/kid-papercraft "${CODEX_HOME:-$HOME/.codex}/skills/kid_papercraft"
 ```
 
-Then simply invoke the skill in conversation:
+Invoke in conversation:
 
 ```text
-Help me create an origami birthday video for my kid!
+Help me make a papercraft birthday greeting video!
 ```
 
 ---
 
-## 📋 Example Output (SpongeBob 5th Birthday)
+## 📋 Example Generated Prompts (SpongeBob 5th Birthday)
 
 <div align="center">
   <a href="assets/readme/spongebob-birthday-demo.mp4">
-    <img src="assets/readme/spongebob-birthday-demo.gif" alt="SpongeBob Birthday Origami Stop-Motion Demo" width="750">
+    <img src="assets/readme/spongebob-birthday-demo.gif" alt="SpongeBob Papercraft Demo" width="750">
   </a>
-  <p><em>🎬 SpongeBob Theme · 30-Second Stop-Motion Origami Birthday Demo (<strong>Click animated preview to open full HD video with sound</strong>)</em></p>
+  <p><em>🎬 SpongeBob Theme · Lele's 5th Birthday Stop-Motion Demo (<strong>Click GIF for full HD video with audio</strong>)</em></p>
 </div>
 
 ### 🎬 Clip 1: Creative Entrance (0–10s)
@@ -129,6 +121,14 @@ Charming stop-motion animation in a colorful origami underwater party room with 
 ```text
 Charming stop-motion animation montage in SpongeBob's origami pineapple house interior. Beautifully textured colored paper cutouts showing three quick adorable scenes: First, the cheerful origami SpongeBob cheerfully brushing teeth with a tiny origami toothbrush, with sparkles of paper glitter around the smile. Then, the cheerful origami SpongeBob yawning cutely and tucking into a cozy origami paper bed with a paper star nightlight. Finally, the cheerful origami SpongeBob happily eating from a colorful origami paper plate with tiny paper vegetables and rice. Each scene transitions with a gentle paper fold wipe. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
 ```
+
+---
+
+## ⚠️ Disclaimer & IP Notice
+
+1. **Non-Affiliation**: This open-source repository (`kid-papercraft`) provides AI prompt engineering templates and workflow skills. It is **independent and not affiliated with, sponsored by, or endorsed by any animation studios or trademark owners**.
+2. **Intellectual Property Rights**: All animated characters, names, and visual likenesses (including but not limited to SpongeBob SquarePants, Peppa Pig, Ultraman, Paw Patrol, and Doraemon) are the property and trademarks of their respective copyright holders.
+3. **Permitted Use**: The prompt templates provided are intended solely for personal study, academic research, AI generative art exploration, and **non-commercial family birthday greetings**. Users are responsible for complying with applicable local copyright laws and platform terms of service.
 
 ---
 

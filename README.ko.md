@@ -26,14 +26,6 @@
 
 ---
 
-## ⚠️ 면책 조항 및 지적재산권 안내 (Disclaimer)
-
-1. **비공식 프로젝트 안내**: 본 오픈소스 프로젝트(`kid-papercraft`)는 AI 프롬프트 엔지니어링 템플릿 도구이며, **본문에 언급된 애니메이션 제작사, 판권 소유자 및 공식 브랜드와 어떠한 상업적 제휴나 후원 관계도 없습니다**.
-2. **지적재산권 귀속**: 언급된 모든 애니메이션 캐릭터, 명칭(스폰지밥, 페파피그, 울트라맨, 퍼피 구조대, 도라에몽 등)의 상표권 및 저작권은 각 원작자 및 권리자에게 귀속됩니다.
-3. **사용 범위**: 제공되는 프롬프트는 개인 학습, 기술 연구, AI 생성 예술 탐구 및 **비상업적 가족 생일 축하 영상 제작** 목적으로만 사용해야 합니다.
-
----
-
 ## ✨ 핵심 기능
 
 - 🎭 **5대 인기 애니메이션 IP 종이접기화**: 네모바지 스폰지밥, 페파피그, 울트라맨, 퍼피 구조대, 도라에몽.
@@ -114,6 +106,14 @@ Charming stop-motion animation in a colorful origami underwater party room with 
 ```text
 Charming stop-motion animation montage in SpongeBob's origami pineapple house interior. Beautifully textured colored paper cutouts showing three quick adorable scenes: First, the cheerful origami SpongeBob cheerfully brushing teeth with a tiny origami toothbrush, with sparkles of paper glitter around the smile. Then, the cheerful origami SpongeBob yawning cutely and tucking into a cozy origami paper bed with a paper star nightlight. Finally, the cheerful origami SpongeBob happily eating from a colorful origami paper plate with tiny paper vegetables and rice. Each scene transitions with a gentle paper fold wipe. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
 ```
+
+---
+
+## ⚠️ 면책 조항 및 지적재산권 안내 (Disclaimer)
+
+1. **비공식 프로젝트 안내**: 본 오픈소스 프로젝트(`kid-papercraft`)는 AI 프롬프트 엔지니어링 템플릿 도구이며, **본문에 언급된 애니메이션 제작사, 판권 소유자 및 공식 브랜드와 어떠한 상업적 제휴나 후원 관계도 없습니다**.
+2. **지적재산권 귀속**: 언급된 모든 애니메이션 캐릭터, 명칭(스폰지밥, 페파피그, 울트라맨, 퍼피 구조대, 도라에몽 등)의 상표권 및 저작권은 각 원작자 및 권리자에게 귀속됩니다.
+3. **사용 범위**: 제공되는 프롬프트는 개인 학습, 기술 연구, AI 생성 예술 탐구 및 **비상업적 가족 생일 축하 영상 제작** 목적으로만 사용해야 합니다.
 
 ---
 

@@ -26,14 +26,6 @@
 
 ---
 
-## ⚠️ 免责声明与版权提示 (Disclaimer)
-
-1. **非官方声明**：本项目（`kid-papercraft`）为一个开源的 AI 提示词工程模板与 Skill 工具，**与文中所提及的任何动画制作公司、版权方或品牌官方均无任何商业合作、赞助或关联**。
-2. **知识产权归属**：文中所涉及的动画形象、角色名称（包括但不限于海绵宝宝、小猪佩奇、奥特曼、汪汪队立大功、哆啦A梦等）及其衍生设计之所有知识产权与商标权，均归属于各自原始版权持有方所有。
-3. **用途限定**：本 Skill 生成的提示词模板仅供个人学习、技术研究、AI 生成艺术探索及**非商业性质的家庭个人生日祝福**使用。请勿将生成的受版权保护角色素材用于商业化盈利或侵权用途，使用者需自行承担因违规使用而产生的相关法律责任。
-
----
-
 ## ✨ 核心亮点
 
 - 🎭 **5 大殿堂级童年 IP 折纸化**：海绵宝宝、小猪佩奇、奥特曼、汪汪队、哆啦A梦，全套手作折纸定格质感。
@@ -135,6 +127,14 @@ Charming stop-motion animation in a colorful origami underwater party room with 
 ```text
 Charming stop-motion animation montage in SpongeBob's origami pineapple house interior. Beautifully textured colored paper cutouts showing three quick adorable scenes: First, the cheerful origami SpongeBob cheerfully brushing teeth with a tiny origami toothbrush, with sparkles of paper glitter around the smile. Then, the cheerful origami SpongeBob yawning cutely and tucking into a cozy origami paper bed with a paper star nightlight. Finally, the cheerful origami SpongeBob happily eating from a colorful origami paper plate with tiny paper vegetables and rice. Each scene transitions with a gentle paper fold wipe. Warm organic lighting, tactile paper textures, gentle camera pan, soft pastel color palette, whimsical and cozy atmosphere.
 ```
+
+---
+
+## ⚠️ 免责声明与版权提示 (Disclaimer)
+
+1. **非官方声明**：本项目（`kid-papercraft`）为一个开源的 AI 提示词工程模板与 Skill 工具，**与文中所提及的任何动画制作公司、版权方或品牌官方均无任何商业合作、赞助或关联**。
+2. **知识产权归属**：文中所涉及的动画形象、角色名称（包括但不限于海绵宝宝、小猪佩奇、奥特曼、汪汪队立大功、哆啦A梦等）及其衍生设计之所有知识产权与商标权，均归属于各自原始版权持有方所有。
+3. **用途限定**：本 Skill 生成的提示词模板仅供个人学习、技术研究、AI 生成艺术探索及**非商业性质的家庭个人生日祝福**使用。请勿将生成的受版权保护角色素材用于商业化盈利或侵权用途，使用者需自行承担因违规使用而产生的相关法律责任。
 
 ---
 

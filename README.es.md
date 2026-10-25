@@ -55,7 +55,7 @@ Ideal para: **Saludos de cumpleaños personalizados, celebraciones familiares, v
 
 <div align="center">
   <a href="assets/readme/spongebob-birthday-web.mp4">
-    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@925b060d4b3196c63c07026d1ea70c8f30dddae6/assets/readme/spongebob-birthday-preview.gif" alt="Demostración de Origami Bob Esponja" width="750">
+    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@791fcfc8d4b4bf017f4e38525b060b9e919a28fd/assets/readme/spongebob-birthday-preview.webp" alt="Demostración de Origami Bob Esponja" width="750">
   </a>
   <p><em>🎬 Tema de Bob Esponja · Demostración de Video en Origami Stop-Motion de 30 Segundos（<strong>Haz clic en el GIF para abrir el video en HD con sonido</strong>）</em></p>
 </div>

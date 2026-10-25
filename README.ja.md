@@ -55,7 +55,7 @@
 
 <div align="center">
   <a href="assets/readme/spongebob-birthday-web.mp4">
-    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@925b060d4b3196c63c07026d1ea70c8f30dddae6/assets/readme/spongebob-birthday-preview.gif" alt="スポンジ・ボブ 折り紙アニメデモ" width="750">
+    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@791fcfc8d4b4bf017f4e38525b060b9e919a28fd/assets/readme/spongebob-birthday-preview.webp" alt="スポンジ・ボブ 折り紙アニメデモ" width="750">
   </a>
   <p><em>🎬 スポンジ・ボブ テーマ · 30秒折り紙コマ撮り誕生日動画デモ（<strong>GIFをクリックするとフルHD音声付き動画を再生できます</strong>）</em></p>
 </div>

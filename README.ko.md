@@ -55,7 +55,7 @@
 
 <div align="center">
   <a href="assets/readme/spongebob-birthday-web.mp4">
-    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@925b060d4b3196c63c07026d1ea70c8f30dddae6/assets/readme/spongebob-birthday-preview.gif" alt="스폰지밥 종이접기 애니메이션 데모" width="750">
+    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@791fcfc8d4b4bf017f4e38525b060b9e919a28fd/assets/readme/spongebob-birthday-preview.webp" alt="스폰지밥 종이접기 애니메이션 데모" width="750">
   </a>
   <p><em>🎬 스폰지밥 테마 · 30초 종이접기 생일 영상 데모（<strong>GIF를 클릭하면 소리가 포함된 풀 HD 비디오가 열립니다</strong>）</em></p>
 </div>

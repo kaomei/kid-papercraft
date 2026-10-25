@@ -55,7 +55,7 @@
 
 <div align="center">
   <a href="assets/readme/spongebob-birthday-web.mp4">
-    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@925b060d4b3196c63c07026d1ea70c8f30dddae6/assets/readme/spongebob-birthday-preview.gif" alt="海绵宝宝主题折纸定格动画生成效果" width="750">
+    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@791fcfc8d4b4bf017f4e38525b060b9e919a28fd/assets/readme/spongebob-birthday-preview.webp" alt="海绵宝宝主题折纸定格动画生成效果" width="750">
   </a>
   <p><em>🎬 海绵宝宝主题 · 乐乐 5岁生日定格折纸动画生成样片（<strong>点击动图可直接打开带声音高清视频</strong>）</em></p>
 </div>

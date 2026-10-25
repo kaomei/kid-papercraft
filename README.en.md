@@ -55,7 +55,7 @@ Built for personalized birthday greetings, TikTok / Reels / WeChat Video channel
 
 <div align="center">
   <a href="assets/readme/spongebob-birthday-web.mp4">
-    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@925b060d4b3196c63c07026d1ea70c8f30dddae6/assets/readme/spongebob-birthday-preview.gif" alt="SpongeBob Papercraft Demo" width="750">
+    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@791fcfc8d4b4bf017f4e38525b060b9e919a28fd/assets/readme/spongebob-birthday-preview.webp" alt="SpongeBob Papercraft Demo" width="750">
   </a>
   <p><em>🎬 SpongeBob Theme · Lele's 5th Birthday Stop-Motion Demo (<strong>Click GIF for full HD video with audio</strong>)</em></p>
 </div>

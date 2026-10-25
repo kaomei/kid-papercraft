@@ -16,7 +16,7 @@ A production-ready AI Skill that transforms a child's name, age, and photo into 
 
 <br/>
 
-<img src="assets/readme/hero-cover.png" alt="Kid Papercraft Preview" width="800">
+<img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@3ff307c51377b2ce8378106ac95782215130f3e0/assets/readme/hero-cover.png" alt="Kid Papercraft Preview" width="800">
 
 <br/>
 
@@ -54,8 +54,8 @@ Built for personalized birthday greetings, TikTok / Reels / WeChat Video channel
 ## 📋 Example Generated Prompts (SpongeBob 5th Birthday)
 
 <div align="center">
-  <a href="assets/readme/spongebob-birthday-demo.mp4">
-    <img src="assets/readme/spongebob-birthday-demo.gif" alt="SpongeBob Papercraft Demo" width="750">
+  <a href="assets/readme/spongebob-birthday-web.mp4">
+    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@925b060d4b3196c63c07026d1ea70c8f30dddae6/assets/readme/spongebob-birthday-preview.gif" alt="SpongeBob Papercraft Demo" width="750">
   </a>
   <p><em>🎬 SpongeBob Theme · Lele's 5th Birthday Stop-Motion Demo (<strong>Click GIF for full HD video with audio</strong>)</em></p>
 </div>

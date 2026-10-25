@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="assets/readme/hero-cover.png" alt="Kid Papercraft プレビュー" width="800">
+<img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@3ff307c51377b2ce8378106ac95782215130f3e0/assets/readme/hero-cover.png" alt="Kid Papercraft プレビュー" width="800">
 
 <br/>
 
@@ -54,8 +54,8 @@
 ## 📋 プロンプト生成サンプル（スポンジ・ボブ 5歳の誕生日）
 
 <div align="center">
-  <a href="assets/readme/spongebob-birthday-demo.mp4">
-    <img src="assets/readme/spongebob-birthday-demo.gif" alt="スポンジ・ボブ 折り紙アニメデモ" width="750">
+  <a href="assets/readme/spongebob-birthday-web.mp4">
+    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@925b060d4b3196c63c07026d1ea70c8f30dddae6/assets/readme/spongebob-birthday-preview.gif" alt="スポンジ・ボブ 折り紙アニメデモ" width="750">
   </a>
   <p><em>🎬 スポンジ・ボブ テーマ · 30秒折り紙コマ撮り誕生日動画デモ（<strong>GIFをクリックするとフルHD音声付き動画を再生できます</strong>）</em></p>
 </div>

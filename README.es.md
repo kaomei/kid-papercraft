@@ -16,7 +16,7 @@ Un Skill de IA de código abierto para creadores y familias. Ingresa el nombre, 
 
 <br/>
 
-<img src="assets/readme/hero-cover.png" alt="Vista previa de Kid Papercraft" width="800">
+<img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@3ff307c51377b2ce8378106ac95782215130f3e0/assets/readme/hero-cover.png" alt="Vista previa de Kid Papercraft" width="800">
 
 <br/>
 
@@ -54,8 +54,8 @@ Ideal para: **Saludos de cumpleaños personalizados, celebraciones familiares, v
 ## 📋 Ejemplo de Salida (Bob Esponja 5to Cumpleaños)
 
 <div align="center">
-  <a href="assets/readme/spongebob-birthday-demo.mp4">
-    <img src="assets/readme/spongebob-birthday-demo.gif" alt="Demostración de Origami Bob Esponja" width="750">
+  <a href="assets/readme/spongebob-birthday-web.mp4">
+    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@925b060d4b3196c63c07026d1ea70c8f30dddae6/assets/readme/spongebob-birthday-preview.gif" alt="Demostración de Origami Bob Esponja" width="750">
   </a>
   <p><em>🎬 Tema de Bob Esponja · Demostración de Video en Origami Stop-Motion de 30 Segundos（<strong>Haz clic en el GIF para abrir el video en HD con sonido</strong>）</em></p>
 </div>

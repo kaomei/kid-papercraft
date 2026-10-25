@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="assets/readme/hero-cover.png" alt="Kid Papercraft 미리보기" width="800">
+<img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@3ff307c51377b2ce8378106ac95782215130f3e0/assets/readme/hero-cover.png" alt="Kid Papercraft 미리보기" width="800">
 
 <br/>
 
@@ -54,8 +54,8 @@
 ## 📋 프롬프트 생성 예시 (스폰지밥 5세 생일)
 
 <div align="center">
-  <a href="assets/readme/spongebob-birthday-demo.mp4">
-    <img src="assets/readme/spongebob-birthday-demo.gif" alt="스폰지밥 종이접기 애니메이션 데모" width="750">
+  <a href="assets/readme/spongebob-birthday-web.mp4">
+    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@925b060d4b3196c63c07026d1ea70c8f30dddae6/assets/readme/spongebob-birthday-preview.gif" alt="스폰지밥 종이접기 애니메이션 데모" width="750">
   </a>
   <p><em>🎬 스폰지밥 테마 · 30초 종이접기 생일 영상 데모（<strong>GIF를 클릭하면 소리가 포함된 풀 HD 비디오가 열립니다</strong>）</em></p>
 </div>

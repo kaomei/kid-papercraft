@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="assets/readme/hero-cover.png" alt="Kid Papercraft 5大动画IP折纸定格动画预览" width="800">
+<img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@3ff307c51377b2ce8378106ac95782215130f3e0/assets/readme/hero-cover.png" alt="Kid Papercraft 5大动画IP折纸定格动画预览" width="800">
 
 <br/>
 
@@ -54,8 +54,8 @@
 ## 📋 提示词生成范例（以海绵宝宝 5 岁生日为例）
 
 <div align="center">
-  <a href="assets/readme/spongebob-birthday-demo.mp4">
-    <img src="assets/readme/spongebob-birthday-demo.gif" alt="海绵宝宝主题折纸定格动画生成效果" width="750">
+  <a href="assets/readme/spongebob-birthday-web.mp4">
+    <img src="https://cdn.jsdelivr.net/gh/kaomei/kid-papercraft@925b060d4b3196c63c07026d1ea70c8f30dddae6/assets/readme/spongebob-birthday-preview.gif" alt="海绵宝宝主题折纸定格动画生成效果" width="750">
   </a>
   <p><em>🎬 海绵宝宝主题 · 乐乐 5岁生日定格折纸动画生成样片（<strong>点击动图可直接打开带声音高清视频</strong>）</em></p>
 </div>
